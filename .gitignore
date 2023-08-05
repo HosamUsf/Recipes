@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Recipes/*
+!/Recipes/task/
+/Recipes/task/*
+!/Recipes/task/src
+!/Recipes/task/build.gradle
