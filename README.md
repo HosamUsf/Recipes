@@ -1,5 +1,4 @@
 # JetBrains Academy - Recipe Project
-We all were in a situation when we wanted to cook something special but couldn't remember a recipe. Let's create a program that can store all recipes in one place. The program is a multi-user web service based on Spring Boot that allows storing, retrieving, updating, and deleting recipes.
 
 <br />
 <p align="center">
